@@ -10,6 +10,7 @@ The classifier can be easily integrated into existing applications or used as a 
 
 Installation
 To use the Dog vs Cat CNN Classifier, follow these steps:
+
     1. Clone the repository from GitHub:
     git clone https://github.com/your-username/dog-vs-cat-cnn-classifier.git
 
