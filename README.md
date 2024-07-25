@@ -66,9 +66,9 @@ open up you local host and port
 
 
 ```bash
-Author: Bappy Ahmed
+Author: Hitesh Yerekar
 Data Scientist
-Email: entbappy73@gmail.com
+Email: hitesh.yerekar@gmail.com
 
 ```
 
